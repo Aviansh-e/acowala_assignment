@@ -8,6 +8,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "hellow": "file:",
     "newsapp": "file:"
   },
   "description": ""
